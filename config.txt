@@ -1,0 +1,6 @@
+owner=510087122095570965
+prefix=1
+game=1play               by Torky
+stayinchannel=true
+songinstatus=false
+token=NTM4NjY1MTA1OTQwODA3Njkw.Dy3GfA.3wgeA8jVmp5nJ9YNFhsPThP8_Ac
